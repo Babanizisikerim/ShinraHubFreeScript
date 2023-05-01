@@ -1,1 +1,1 @@
-loadstring(game:HttpGet("https://gist.githubusercontent.com/Babanizisikerim/56c0694218e6da46504dea1ad0fedeee/raw/f0187d68b4502a5a42cffb2c6718bd93c64c8aba/ShinraHubFree"))
+loadstring(game:HttpGet("https://gist.githubusercontent.com/Babanizisikerim/56c0694218e6da46504dea1ad0fedeee/raw/f0187d68b4502a5a42cffb2c6718bd93c64c8aba/ShinraHubFree"))()
